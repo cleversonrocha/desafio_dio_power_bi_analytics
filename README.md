@@ -10,9 +10,9 @@ Este repositório contém o desenvolvimento de um Dashboard de Vendas interativo
 
 ## 🖼️ Visualização do Projeto
 
-![Legenda da Imagem](desafio_dio_power_bi_analytics_1.jpg)
-![Legenda da Imagem](desafio_dio_power_bi_analytics_2.jpg)
-![Legenda da Imagem](desafio_dio_power_bi_analytics_3.jpg)
-![Legenda da Imagem](desafio_dio_power_bi_analytics_4.jpg)
-![Legenda da Imagem](desafio_dio_power_bi_analytics_5.jpg)
-![Legenda da Imagem](desafio_dio_power_bi_analytics_6.jpg)
+![Legenda da Imagem](desafio_dio_power_bi_analytics_1.PNG)
+![Legenda da Imagem](desafio_dio_power_bi_analytics_2.PNG)
+![Legenda da Imagem](desafio_dio_power_bi_analytics_3.PNG)
+![Legenda da Imagem](desafio_dio_power_bi_analytics_4.PNG)
+![Legenda da Imagem](desafio_dio_power_bi_analytics_5.PNG)
+![Legenda da Imagem](desafio_dio_power_bi_analytics_6.PNG)
